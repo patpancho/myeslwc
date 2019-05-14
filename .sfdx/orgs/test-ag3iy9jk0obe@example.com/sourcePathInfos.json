@@ -2,14 +2,14 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557815877132,
             "changeTime": 1557815877132,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557815877132,
             "changeTime": 1557815877132,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1557815877136,
-            "changeTime": 1557815877136,
-            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1557821489527,
+            "changeTime": 1557821489527,
+            "contentHash": "8629f0e2cc130f5ca9aa9f49d4cbb84b76535d58"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557815877133,
             "changeTime": 1557815877133,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\lwc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\lwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557815877136,
             "changeTime": 1557815877136,
             "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,16 +75,341 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557815918029,
             "changeTime": 1557815918029,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "n",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\Customer_Fields__mdt.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1557821489257,
+            "changeTime": 1557821489257,
+            "contentHash": "ef6ad44cd1debd770cacef0f3c93c29fefb8b035"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 395,
+            "modifiedTime": 1557821489265,
+            "changeTime": 1557821489265,
+            "contentHash": "ada6ccae9353762ea32372a9af05b1e3db136139"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 682,
+            "modifiedTime": 1557821489267,
+            "changeTime": 1557821489267,
+            "contentHash": "3a8b971d1b2bf5458826a1fc463cd1292ed624b4"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 678,
+            "modifiedTime": 1557821489270,
+            "changeTime": 1557821489270,
+            "contentHash": "e4f1df3e02d40f7ab5849f0de895b2628b5e7245"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 397,
+            "modifiedTime": 1557821489272,
+            "changeTime": 1557821489272,
+            "contentHash": "443845b358ba1fef20224455bd30fe5df3721d36"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Customer_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 672,
+            "modifiedTime": 1557821489273,
+            "changeTime": 1557821489273,
+            "contentHash": "5c36e886f35e6c26c0f97c07da590ff509975cad"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields\\Sobject_Type__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 549,
+            "modifiedTime": 1557821489276,
+            "changeTime": 1557821489276,
+            "contentHash": "77074a9a7043bdfbe4418f947d5d46c6245f89c2"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\layouts\\Customer_Fields__mdt-Customer Fields Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3198,
+            "modifiedTime": 1557821489363,
+            "changeTime": 1557821489363,
+            "contentHash": "1a029dc28bf4bde286a703495d301495d5acec2c"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1557821489377,
+            "changeTime": 1557821489377,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\reservationManagerController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1805,
+            "modifiedTime": 1557821489387,
+            "changeTime": 1557821489387,
+            "contentHash": "f1fc1869351106405a22725bddf99efc92e4520f"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1557821489405,
+            "changeTime": 1557821489405,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\customerServices.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1731,
+            "modifiedTime": 1557821489414,
+            "changeTime": 1557821489414,
+            "contentHash": "e0b01ee008d9d2178e7b4a27dcfbc524d523f48c"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 20028,
+            "modifiedTime": 1557821489480,
+            "changeTime": 1557821489480,
+            "contentHash": "1041e239b27863fedc93e651b52602e4524643fc"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6225,
+            "modifiedTime": 1557821489490,
+            "changeTime": 1557821489490,
+            "contentHash": "ed4653f9bfb79c9ffd3bd4291542caa34e0a4a4d"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5887,
+            "modifiedTime": 1557821489499,
+            "changeTime": 1557821489499,
+            "contentHash": "debace2214ad1e146237199a9fd2a2c6aba3d7eb"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5887,
+            "modifiedTime": 1557821489508,
+            "changeTime": 1557821489508,
+            "contentHash": "debace2214ad1e146237199a9fd2a2c6aba3d7eb"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Contact_Customer_Field.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1002,
+            "modifiedTime": 1557821489530,
+            "changeTime": 1557821489530,
+            "contentHash": "4a7432fe2f49006371b047db71933841ad0a8698"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\customMetadata\\Customer_Fields.Lead_Customer_Fields.md-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 983,
+            "modifiedTime": 1557821489540,
+            "changeTime": 1557821489540,
+            "contentHash": "da97824a35624b9c8e582ddc773fedfae864870d"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489257,
+            "changeTime": 1557821489257,
+            "contentHash": "e1b2731ee3f217f9c3cae2b1daba8b54db2c1a48"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489253,
+            "changeTime": 1557821489253,
+            "contentHash": "9a580d623f898525e6d5f00988d2a3f8fa28c4c5"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\objects\\Customer_Fields__mdt\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489275,
+            "changeTime": 1557821489275,
+            "contentHash": "02b95b649e97ca8796cee9b0dbc2ab38723358e1"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489362,
+            "changeTime": 1557821489362,
+            "contentHash": "cca34c1d09846e84000f9e65b37d2e8aba66dd21"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489413,
+            "changeTime": 1557821489413,
+            "contentHash": "db8d4fb2830b729e355c21338865355650835a05"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489507,
+            "changeTime": 1557821489507,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\customMetadata",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\customMetadata",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1557821489539,
+            "changeTime": 1557821489539,
+            "contentHash": "79e57c27e9c09be5656a4f14d138441365219c22"
         }
     ]
 ]
