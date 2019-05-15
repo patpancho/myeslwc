@@ -32,14 +32,14 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557890337892,
             "changeTime": 1557890337892,
-            "contentHash": "18804a526565dfa41fbcb230229e81ca7aca8074"
+            "contentHash": "18804a526565dfa41fbcb230229e81ca7aca8074",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -48,9 +48,9 @@
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1557887635958,
-            "changeTime": 1557887635958,
-            "contentHash": "d01e47fabbaafa2ef12d706caafb75f4cdea20e2",
+            "modifiedTime": 1557890515590,
+            "changeTime": 1557890515590,
+            "contentHash": "e5f7d4ce344a491ec92a8d4099d16dde6e6ad881",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -267,53 +267,53 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 20575,
             "modifiedTime": 1557890337969,
             "changeTime": 1557890337969,
-            "contentHash": "67706fb2bfb9ddefc4ac30db79d27e0e272e92a3"
+            "contentHash": "67706fb2bfb9ddefc4ac30db79d27e0e272e92a3",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6774,
             "modifiedTime": 1557890338019,
             "changeTime": 1557890338019,
-            "contentHash": "402320a40e8871bd6d0c4d15fc38c4e95c262b8f"
+            "contentHash": "402320a40e8871bd6d0c4d15fc38c4e95c262b8f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6436,
             "modifiedTime": 1557890338035,
             "changeTime": 1557890338035,
-            "contentHash": "1a47aa772530c34dfeab8336a013abc8a7f0e479"
+            "contentHash": "1a47aa772530c34dfeab8336a013abc8a7f0e479",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6436,
             "modifiedTime": 1557890338050,
             "changeTime": 1557890338050,
-            "contentHash": "1a47aa772530c34dfeab8336a013abc8a7f0e479"
+            "contentHash": "1a47aa772530c34dfeab8336a013abc8a7f0e479",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -409,14 +409,14 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557890337919,
             "changeTime": 1557890337919,
-            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507"
+            "contentHash": "d5a04d3553b138a27ad9f7ee49d65723d30fe507",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -939,14 +939,14 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\applications\\Space_Management.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1617,
             "modifiedTime": 1557890337882,
             "changeTime": 1557890337882,
-            "contentHash": "056b457579ad208caabd5037af91105ae260f782"
+            "contentHash": "056b457579ad208caabd5037af91105ae260f782",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -978,27 +978,27 @@
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557890337867,
             "changeTime": 1557890337867,
-            "contentHash": "f3c44e97c83946eb79816710a0ac8447240de794"
+            "contentHash": "f3c44e97c83946eb79816710a0ac8447240de794",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557890337872,
             "changeTime": 1557890337872,
-            "contentHash": "1a8e93fa94a99a4406a5246d79e292b4e49e2140"
+            "contentHash": "1a8e93fa94a99a4406a5246d79e292b4e49e2140",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -2048,88 +2048,218 @@
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flexipages\\Spaces_Designer.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 719,
-            "modifiedTime": 1557890337868,
-            "changeTime": 1557890337868,
-            "contentHash": "15899f328d2fc7adcedc8fcfd1ad8ab64e3cb75d"
+            "size": 839,
+            "modifiedTime": 1557892508941,
+            "changeTime": 1557892508941,
+            "contentHash": "816a9a7c78a75c156b9b8096d0c409e9d4263f48"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Spaces_Designer.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\tabs\\Spaces_Designer.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 326,
             "modifiedTime": 1557890337873,
             "changeTime": 1557890337873,
-            "contentHash": "95fb416374d64fd1829b3d77ad1164e738306368"
+            "contentHash": "95fb416374d64fd1829b3d77ad1164e738306368",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flows\\spaceDesigner.flow-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flows\\spaceDesigner.flow-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5566,
             "modifiedTime": 1557890337895,
             "changeTime": 1557890337895,
-            "contentHash": "d62d05c5ab983f1364bd90bba62e81a0055d30b7"
+            "contentHash": "d62d05c5ab983f1364bd90bba62e81a0055d30b7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flows\\createReservation.flow-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flows\\createReservation.flow-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 11991,
             "modifiedTime": 1557890337909,
             "changeTime": 1557890337909,
-            "contentHash": "e5b6a415bfdc8f5404a27e8db999de50552b98d8"
+            "contentHash": "e5b6a415bfdc8f5404a27e8db999de50552b98d8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\marketServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1557890337915,
             "changeTime": 1557890337915,
-            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730"
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\marketServices.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\classes\\marketServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 554,
             "modifiedTime": 1557890337920,
             "changeTime": 1557890337920,
-            "contentHash": "8ea4256d8dbea13829c9724afa0350483a24c150"
+            "contentHash": "8ea4256d8dbea13829c9724afa0350483a24c150",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flows",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\flows",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1557890337908,
             "changeTime": 1557890337908,
-            "contentHash": "b2d64ccb271297dfcedb4edb8db10ec740e448ac"
+            "contentHash": "b2d64ccb271297dfcedb4edb8db10ec740e448ac",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1557890515619,
+            "changeTime": 1557890515619,
+            "contentHash": "00b80fa218d9a021205d45fcdb05ea3152640ba6",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.auradoc",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1557890515618,
+            "changeTime": 1557890515618,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.cmp",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.cmp",
+            "isDirectory": false,
+            "size": 922,
+            "modifiedTime": 1557890520304,
+            "changeTime": 1557890520304,
+            "contentHash": "fcfde7fa18c70d776323ff5d9c92c0357d86638a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 249,
+            "modifiedTime": 1557890515595,
+            "changeTime": 1557890515595,
+            "contentHash": "52fd1059fc83c39d106062b7810576be1cb1ceb3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.css",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1557890515607,
+            "changeTime": 1557890515607,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.design",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1557890515620,
+            "changeTime": 1557890515620,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.svg",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAura.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1557890515614,
+            "changeTime": 1557890515614,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAuraController.js",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAuraController.js",
+            "isDirectory": false,
+            "size": 1105,
+            "modifiedTime": 1557890534885,
+            "changeTime": 1557890534885,
+            "contentHash": "03b30a36c89e516ba14c3e2f06bea47212342289",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAuraHelper.js",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAuraHelper.js",
+            "isDirectory": false,
+            "size": 394,
+            "modifiedTime": 1557890544714,
+            "changeTime": 1557890544714,
+            "contentHash": "ec3b19254d0ec4660e67addd8c3c3776d2e3b490",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAuraRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\patrick.u.pancho\\Desktop\\Lighting Web Component\\dev\\myeslwc\\force-app\\main\\default\\aura\\spaceDesignerAura\\spaceDesignerAuraRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1557890515610,
+            "changeTime": 1557890515610,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
